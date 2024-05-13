@@ -1,16 +1,30 @@
-### Hi there 👋
+<div align="center"> <h1>📞Contacts</h1></div>
+<div align="center"><a href="https://www.instagram.com/ksh_3013">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/ksh_3013"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</div>
+<div align=center><h1>🛠️Tech Stacks🛠️</h1>
 
-<!--
-**kimsehwan3013/kimsehwan3013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>    
+✅Can Use✅
+<p>
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><br>
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+</p>
+<p>
+📝Learning📝<br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="center"><h1>Stats</h1>
+<img src="https://github-readme-stats.vercel.app/api?username=yehyun207&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehyun207&layout=compact"><br><br>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qqww7389" />
+</div>
