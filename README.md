@@ -16,15 +16,3 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 </p>
 <p>
-📝Learning📝<br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-</p>
-
-</div>
-
-<div align="center"><h1>Stats</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=yehyun207&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehyun207&layout=compact"><br><br>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qqww7389" />
-</div>
